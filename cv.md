@@ -62,7 +62,10 @@ function balanceBST(root: TreeNode | null): TreeNode | null {
     }
 };
 ```
-# Experience
+# Pet projects
+* https://gasay-liza.github.io/A-home
+* https://github.com/Gasay-Liza/movies-explorer-frontend?tab=readme-ov-file
+* https://gasay-liza.github.io/how-to-learn/
 
 # Education
 * **Bachelor, St. Petersburg Mining University**
