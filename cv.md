@@ -1,7 +1,5 @@
 # rsschool-cv
-
-## Selyakova Elizaveta
-
+# Selyakova Elizaveta
 ## Frontend Developer
 
 ## Contact information:
@@ -20,7 +18,7 @@ front-end developer at the website and mobile application development studio 'Re
 developing interfaces using React in Cherepovets at the company 'Northis'. I am continuously improving my skills by
 solving algorithmic challenges on LeetCode and studying programming independently on Hexlet.
 
-## Skills
+## Skills:
 * React, Redux Toolkit;
 * JavaScript & TypeScript;
 * Git, GitHub, GitLab;
@@ -62,17 +60,17 @@ function balanceBST(root: TreeNode | null): TreeNode | null {
     }
 };
 ```
-# Pet projects
+## Pet projects:
 * https://gasay-liza.github.io/A-home
 * https://github.com/Gasay-Liza/movies-explorer-frontend?tab=readme-ov-file
 * https://gasay-liza.github.io/how-to-learn/
 
-# Education
+## Education:
 * **Bachelor, St. Petersburg Mining University**
 * **Practicum Yandex** -  web developer courses
 * **[Hexlet](https://ru.hexlet.io/u/gasay-liza)** 
 
-# Languages
+## Languages:
 
 * **Russian** - native speaker.
 * **English** - A2.
