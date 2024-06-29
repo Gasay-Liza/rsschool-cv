@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://Gasay-Liza.github.io/rsschool-cv/cv
